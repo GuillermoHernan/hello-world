@@ -1,2 +1,5 @@
 # hello-world
-MY first repository... Just testing
+My first repository... Just testing
+
+## My impressions
+*Github* is quite interesting!
